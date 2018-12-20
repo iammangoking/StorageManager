@@ -16,5 +16,10 @@ namespace StorageManager
 		{
 			InitializeComponent();
 		}
+
+		private void StorageManager_Load(object sender, EventArgs e)
+		{
+
+		}
 	}
 }

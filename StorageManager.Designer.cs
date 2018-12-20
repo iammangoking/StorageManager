@@ -46,8 +46,8 @@
 			// toolStripStatusLabel1
 			// 
 			this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-			this.toolStripStatusLabel1.Size = new System.Drawing.Size(128, 17);
-			this.toolStripStatusLabel1.Text = "toolStripStatusLabel1";
+			this.toolStripStatusLabel1.Size = new System.Drawing.Size(43, 17);
+			this.toolStripStatusLabel1.Text = "Ready";
 			// 
 			// StorageManager
 			// 

@@ -56,7 +56,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Database\DBAccess.cs" />
     <Compile Include="Database\DBConnector.cs" />
+    <Compile Include="Database\Schema\ProductDoc.cs" />
+    <Compile Include="Database\Schema\SerialNumberDoc.cs" />
+    <Compile Include="Database\Schema\StorageDoc.cs" />
     <Compile Include="StorageManager.cs">
       <SubType>Form</SubType>
     </Compile>
